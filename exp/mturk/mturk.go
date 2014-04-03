@@ -17,7 +17,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"github.com/turret-io/goamz/aws"
+	"github.com/turretIO/goamz/aws"
 	"net/http"
 	//"net/http/httputil"
 	"net/url"

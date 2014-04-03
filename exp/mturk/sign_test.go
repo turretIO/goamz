@@ -1,9 +1,9 @@
 package mturk_test
 
 import (
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/exp/mturk"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/exp/mturk"
+	. "github.com/turretIO/gocheck"
 )
 
 // Mechanical Turk REST authentication docs: http://goo.gl/wrzfn

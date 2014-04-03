@@ -27,7 +27,7 @@ package sns
 import (
 	"encoding/xml"
 	"errors"
-	"github.com/turret-io/goamz/aws"
+	"github.com/turretIO/goamz/aws"
 	"net/http"
 	"net/url"
 	"strconv"

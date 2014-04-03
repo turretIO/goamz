@@ -1,8 +1,8 @@
 package main
 
 import (
-  "github.com/turret-io/goamz/aws"
-  "github.com/turret-io/goamz/ses"
+  "github.com/turretIO/goamz/aws"
+  "github.com/turretIO/goamz/ses"
   "fmt"
 )
 

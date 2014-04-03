@@ -3,7 +3,7 @@ package ses
 import (
   "crypto/hmac"
   "crypto/sha256"
-  "github.com/turret-io/goamz/aws"
+  "github.com/turretIO/goamz/aws"
   "sort"
   "strings"
   "fmt"

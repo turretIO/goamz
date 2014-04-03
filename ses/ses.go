@@ -3,7 +3,7 @@ package ses
 import (
   "encoding/xml"
   "encoding/base64"
-  "github.com/turret-io/goamz/aws"
+  "github.com/turretIO/goamz/aws"
   "net/url"
   "net/http"
   "strconv"

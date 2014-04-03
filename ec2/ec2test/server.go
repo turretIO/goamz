@@ -9,7 +9,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io"
-	"github.com/turret-io/goamz/ec2"
+	"github.com/turretIO/goamz/ec2"
 	"net"
 	"net/http"
 	"net/url"

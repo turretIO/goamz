@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/base64"
-	"github.com/turret-io/goamz/aws"
+	"github.com/turretIO/goamz/aws"
 	"sort"
 	"strings"
 )

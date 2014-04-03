@@ -1,10 +1,10 @@
 package sns_test
 
 import (
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/exp/sns"
-	"github.com/turret-io/goamz/testutil"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/exp/sns"
+	"github.com/turretIO/goamz/testutil"
+	. "github.com/turretIO/gocheck"
 	"testing"
 )
 

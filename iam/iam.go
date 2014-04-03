@@ -4,7 +4,7 @@ package iam
 
 import (
 	"encoding/xml"
-	"github.com/turret-io/goamz/aws"
+	"github.com/turretIO/goamz/aws"
 	"net/http"
 	"net/url"
 	"strconv"

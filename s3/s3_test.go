@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/s3"
-	"github.com/turret-io/goamz/testutil"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/s3"
+	"github.com/turretIO/goamz/testutil"
+	. "github.com/turretIO/gocheck"
 	"time"
 )
 

@@ -1,10 +1,10 @@
 package s3_test
 
 import (
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/s3"
-	"github.com/turret-io/goamz/s3/s3test"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/s3"
+	"github.com/turretIO/goamz/s3/s3test"
+	. "github.com/turretIO/gocheck"
 )
 
 type LocalServer struct {

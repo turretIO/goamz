@@ -9,9 +9,9 @@
 package ec2_test
 
 import (
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/ec2"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/ec2"
+	. "github.com/turretIO/gocheck"
 	"time"
 )
 

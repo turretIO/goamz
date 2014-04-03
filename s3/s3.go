@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	"github.com/turret-io/goamz/aws"
+	"github.com/turretIO/goamz/aws"
 	"log"
 	"net"
 	"net/http"

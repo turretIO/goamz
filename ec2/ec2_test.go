@@ -1,10 +1,10 @@
 package ec2_test
 
 import (
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/ec2"
-	"github.com/turret-io/goamz/testutil"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/ec2"
+	"github.com/turretIO/goamz/testutil"
+	. "github.com/turretIO/gocheck"
 	"testing"
 )
 
@@ -796,7 +796,7 @@ func (s *S) TestSignatureWithEndpointPath(c *C) {
 
 	testServer.Response(200, nil, RebootInstancesExample)
 
-	// https://bugs.github.com/turret-io/goamz/+bug/1022749
+	// https://bugs.github.com/turretIO/goamz/+bug/1022749
 	ec2 := ec2.New(s.ec2.Auth, aws.Region{EC2Endpoint: testServer.URL + "/services/Cloud"})
 
 	_, err := ec2.RebootInstances("i-10a64379")

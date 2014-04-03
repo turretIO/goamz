@@ -7,11 +7,11 @@ import (
 	"sort"
 	"time"
 
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/ec2"
-	"github.com/turret-io/goamz/ec2/ec2test"
-	"github.com/turret-io/goamz/testutil"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/ec2"
+	"github.com/turretIO/goamz/ec2/ec2test"
+	"github.com/turretIO/goamz/testutil"
+	. "github.com/turretIO/gocheck"
 )
 
 // LocalServer represents a local ec2test fake server.

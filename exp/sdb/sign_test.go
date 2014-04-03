@@ -1,9 +1,9 @@
 package sdb_test
 
 import (
-	"github.com/turret-io/goamz/aws"
-	"github.com/turret-io/goamz/exp/sdb"
-	. "github.com/turret-io/gocheck"
+	"github.com/turretIO/goamz/aws"
+	"github.com/turretIO/goamz/exp/sdb"
+	. "github.com/turretIO/gocheck"
 )
 
 // SimpleDB ReST authentication docs: http://goo.gl/CaY81

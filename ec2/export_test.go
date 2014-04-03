@@ -1,7 +1,7 @@
 package ec2
 
 import (
-	"github.com/turret-io/goamz/aws"
+	"github.com/turretIO/goamz/aws"
 	"time"
 )
 

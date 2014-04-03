@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
-	"github.com/turret-io/goamz/iam"
+	"github.com/turretIO/goamz/iam"
 	"net"
 	"net/http"
 	"strings"

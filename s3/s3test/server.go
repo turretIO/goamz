@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	"github.com/turret-io/goamz/s3"
+	"github.com/turretIO/goamz/s3"
 	"log"
 	"net"
 	"net/http"
