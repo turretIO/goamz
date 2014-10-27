@@ -2,7 +2,7 @@ package aws_test
 
 import (
 	"github.com/turretIO/goamz/aws"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 	"time"
 )
 

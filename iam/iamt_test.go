@@ -4,7 +4,7 @@ import (
 	"github.com/turretIO/goamz/aws"
 	"github.com/turretIO/goamz/iam"
 	"github.com/turretIO/goamz/iam/iamtest"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 )
 
 // LocalServer represents a local ec2test fake server.

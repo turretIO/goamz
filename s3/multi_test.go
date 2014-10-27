@@ -5,7 +5,7 @@ import (
 	"io"
 	"io/ioutil"
 	"github.com/turretIO/goamz/s3"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 	"strings"
 )
 

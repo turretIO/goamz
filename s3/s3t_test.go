@@ -4,7 +4,7 @@ import (
 	"github.com/turretIO/goamz/aws"
 	"github.com/turretIO/goamz/s3"
 	"github.com/turretIO/goamz/s3/s3test"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 )
 
 type LocalServer struct {

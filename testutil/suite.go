@@ -3,7 +3,7 @@ package testutil
 import (
 	"flag"
 	"github.com/turretIO/goamz/aws"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 )
 
 // Amazon must be used by all tested packages to determine whether to

@@ -4,7 +4,7 @@ import (
 	"github.com/turretIO/goamz/aws"
 	"github.com/turretIO/goamz/exp/mturk"
 	"github.com/turretIO/goamz/testutil"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 	"net/url"
 	"testing"
 )

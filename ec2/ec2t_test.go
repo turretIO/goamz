@@ -11,7 +11,7 @@ import (
 	"github.com/turretIO/goamz/ec2"
 	"github.com/turretIO/goamz/ec2/ec2test"
 	"github.com/turretIO/goamz/testutil"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 )
 
 // LocalServer represents a local ec2test fake server.

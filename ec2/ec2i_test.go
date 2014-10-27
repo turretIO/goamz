@@ -6,7 +6,7 @@ import (
 	"github.com/turretIO/goamz/aws"
 	"github.com/turretIO/goamz/ec2"
 	"github.com/turretIO/goamz/testutil"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 )
 
 // AmazonServer represents an Amazon EC2 server.

@@ -3,7 +3,7 @@ package s3_test
 import (
 	"github.com/turretIO/goamz/aws"
 	"github.com/turretIO/goamz/s3"
-	. "github.com/turretIO/gocheck"
+	"github.com/motain/gocheck"
 )
 
 // S3 ReST authentication docs: http://goo.gl/G1LrK
